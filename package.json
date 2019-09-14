@@ -1,0 +1,19 @@
+{
+  "name": "zeitport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeitport/zeitport.git"
+  },
+  "author": "Christian Schuller <cschuller@servusalps.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/zeitport/zeitport/issues"
+  },
+  "homepage": "https://github.com/zeitport/zeitport#readme"
+}
